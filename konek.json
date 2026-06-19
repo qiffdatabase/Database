@@ -1,35 +1,9 @@
 {
   "tokens": [
-    {
-      "value": "8925824385:AAFaq4aMM58VwNnCHHI1sPBJ8DXlAxsQ9hI",
-      "note": "",
-      "createdAt": "2026-06-19T07:22:00.515Z",
-      "type": "Token"
-    },
-    {
-      "value": "8709228888:AAEeyL_iKbBKVaBJ1KlBUh1jagSzDHZkCTc",
-      "note": "",
-      "createdAt": "2026-06-19T07:22:00.515Z",
-      "type": "Token"
-    },
-    {
-      "value": "8527162232:AAGUc5KdeRGUE8kZcY1Yb6AHGltOu8BCCeo",
-      "note": "",
-      "createdAt": "2026-06-19T07:22:00.515Z",
-      "type": "Token"
-    },
-    {
-      "value": "8768573430:AAHWOg815nrSMGrHvihoDXFG2JU7IBxUgYo",
-      "note": "",
-      "createdAt": "2026-06-19T07:22:00.515Z",
-      "type": "Token"
-    },
-    {
-      "value": "8696159553:AAGXb4VrayDgATXAcfQLR8f-tj9Jth103yE",
-      "note": "e",
-      "createdAt": "2026-06-19T07:38:06.260Z",
-      "type": "Token"
-    },
-    "j"
+    "8925824385:AAFaq4aMM58VwNnCHHI1sPBJ8DXlAxsQ9hI",
+    "8709228888:AAEeyL_iKbBKVaBJ1KlBUh1jagSzDHZkCTc",
+    "8527162232:AAGUc5KdeRGUE8kZcY1Yb6AHGltOu8BCCeo",
+    "8768573430:AAHWOg815nrSMGrHvihoDXFG2JU7IBxUgYo",
+    "8696159553:AAGXb4VrayDgATXAcfQLR8f-tj9Jth103yE"
   ]
 }
