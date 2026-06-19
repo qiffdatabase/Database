@@ -1,36 +1,3 @@
 {
-  "tokens": [
-    {
-      "id": "mqkl3w7wnnbv3",
-      "name": "Token",
-      "type": "Other",
-      "value": "8925824385:AAFaq4aMM58VwNnCHHI1sPBJ8DXlAxsQ9hI",
-      "note": "",
-      "createdAt": "2026-06-19T07:05:28.028Z"
-    },
-    {
-      "id": "mqkl3w7yv0out",
-      "name": "Token",
-      "type": "Other",
-      "value": "8709228888:AAEeyL_iKbBKVaBJ1KlBUh1jagSzDHZkCTc",
-      "note": "",
-      "createdAt": "2026-06-19T07:05:28.030Z"
-    },
-    {
-      "id": "mqkl3w7ywryhb",
-      "name": "Token",
-      "type": "Other",
-      "value": "8527162232:AAGUc5KdeRGUE8kZcY1Yb6AHGltOu8BCCeo",
-      "note": "",
-      "createdAt": "2026-06-19T07:05:28.030Z"
-    },
-    {
-      "id": "mqkl3w7y3fxzr",
-      "name": "Token",
-      "type": "Other",
-      "value": "8768573430:AAHWOg815nrSMGrHvihoDXFG2JU7IBxUgYo",
-      "note": "",
-      "createdAt": "2026-06-19T07:05:28.030Z"
-    }
-  ]
-}
+  "tokens": ["8925824385:AAFaq4aMM58VwNnCHHI1sPBJ8DXlAxsQ9hI","8709228888:AAEeyL_iKbBKVaBJ1KlBUh1jagSzDHZkCTc","8527162232:AAGUc5KdeRGUE8kZcY1Yb6AHGltOu8BCCeo","8768573430:AAHWOg815nrSMGrHvihoDXFG2JU7IBxUgYo"]
+    
