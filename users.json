@@ -24,6 +24,16 @@
       "username": "@LangHay",
       "password": "buyer",
       "role": "member"
+    },
+    {
+          "username": "@wafinughraha",
+      "password": "buyer",
+      "role": "member"
+    },
+    {
+          "username": "zura",
+      "password": "buyer",
+      "role": "member"
     }
   ]
 }
