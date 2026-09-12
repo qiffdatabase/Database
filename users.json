@@ -5,6 +5,13 @@
       "password": "qiffboy",
       "role": "owner",
       "parent": null
+    },
+    {
+      "username": "langkece",
+      "password": "langboy",
+      "role": "owner",
+      "parent": "qiffowner",
+      "createdAt": "2026-09-12T14:29:05.872Z"
     }
   ]
 }
