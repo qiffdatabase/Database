@@ -1,44 +1,10 @@
 {
   "users": [
     {
-      "username": "abrisam",
-      "password": "qiffganteng",
-      "role": "admin"
-    },
-    {
-      "username": "@TITANPRO10",
-      "password": "buyer",
-      "role": "member"
-    },
-    {
-      "username": "@fitordd",
-      "password": "buyer",
-      "role": "member"
-    },
-    {
-      "username": "roki",
-      "password": "buyer",
-      "role": "member"
-    },
-    {
-      "username": "@LangHay",
-      "password": "buyer",
-      "role": "member"
-    },
-    {
-      "username": "@wafinughraha",
-      "password": "buyer",
-      "role": "member"
-    },
-    {
-      "username": "zura",
-      "password": "buyer",
-      "role": "member"
-    },
-    {
-      "username": "@zurawxn",
-      "password": "admin",
-      "role": "admin"
+      "username": "qiffowner",
+      "password": "qiffboy",
+      "role": "owner",
+      "parent": null
     }
   ]
 }
